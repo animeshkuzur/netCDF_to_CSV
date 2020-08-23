@@ -1,1 +1,8 @@
+*
 input_data/*.nc
+input_data/*.nc4
+!convert.py
+!convert2.py
+!README.md
+!requirements.txt
+!.gitignore

@@ -21,7 +21,7 @@ def reformat(date):
 
 
 #path to the file
-file = "input_data/APHRO_MA_025deg_V1101.2007.nc"
+file = "input_data/"
 
 
 #reading the netCRF file
